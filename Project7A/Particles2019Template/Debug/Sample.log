@@ -1,0 +1,4 @@
+﻿  sample.cpp
+C:\Users\lixia\Desktop\Particles2019Template\sample.cpp(364,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\lixia\Desktop\Particles2019Template\.\Debug\Sample.exe
